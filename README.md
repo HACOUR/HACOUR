@@ -1,6 +1,6 @@
 # 🧪 Smartlabspace
 
-> by **HACOUR** — System Engineer. Microsoft 365, Intune, networking & security by day, homelab tinkerer by night.
+> by **HACOUR** — System Engineer. Linux, Intune, networking & security by day, homelab tinkerer by night.
 
 ## 🛠️ Tech
 
