@@ -28,6 +28,7 @@
 
 ## 🚧 Working on
 
+- **[homelab-notify](https://github.com/HACOUR/homelab-notify)** — one notification bridge: Proxmox, Uptime Kuma, Synology → Telegram *(beta)*
 - **[ffu-pxe-kit](https://github.com/HACOUR/ffu-pxe-kit)** — FFU deployment over PXE/WDS, built around FFU Builder *(beta)*
 - **homelab-docs** — architecture, VLAN design, lessons learned
 - **arm-ripper** — insert disc → rip → transcode → NAS → Telegram notification
