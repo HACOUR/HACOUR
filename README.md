@@ -28,6 +28,7 @@
 
 ## 🚧 Working on
 
+- **[ffu-pxe-kit](https://github.com/HACOUR/ffu-pxe-kit)** — FFU deployment over PXE/WDS, built around FFU Builder *(beta)*
 - **homelab-docs** — architecture, VLAN design, lessons learned
 - **arm-ripper** — insert disc → rip → transcode → NAS → Telegram notification
 - **jarvis** — Claude-based homelab assistant via Telegram, every action needs approval
